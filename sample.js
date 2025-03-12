@@ -1,4 +1,4 @@
-const Vita_ftp = require('./ftp.class.js');
+const Vita_ftp = require('./vita-ftp.class.js');
 
 let vita_ftp = new Vita_ftp({
     host_ip : '192.168.1.133',
